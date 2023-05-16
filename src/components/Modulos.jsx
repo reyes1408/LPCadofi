@@ -1,7 +1,7 @@
-import moduloAltaCli from '/src/assets/moduloAlta.jpg'
-import moduloLogin from '/src/assets/moduloLogin.jpg'
-import moduloInicio from '/src/assets/grafics.jpg'
-import moduloFinanzas from '/src/assets/moduloFinanzas.jpg'
+import moduloAltaCli from './src/assets/moduloAlta.jpg'
+import moduloLogin from './src/assets/moduloLogin.jpg'
+import moduloInicio from './src/assets/grafics.jpg'
+import moduloFinanzas from './src/assets/moduloFinanzas.jpg'
 
 const Modulos = ({nombre, descripcion, img}) => {
     return (
